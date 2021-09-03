@@ -71,7 +71,7 @@
     "foundation-sites": "6.4.4-rc1",
     "history": "4.10.1",
     "humps": "2.0.1",
-    "immer": "5.0.0",
+    "immer": "9.0.6",
     "intl": "1.2.5",
     "loaders.css": "0.1.2",
     "localforage": "1.7.3",
